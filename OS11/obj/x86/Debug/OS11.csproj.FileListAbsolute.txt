@@ -1,0 +1,187 @@
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\bin\Debug\OS11.exe
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\bin\Debug\OS11.pdb
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\MainWindow.baml
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\App.g.cs
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11.g.resources
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11.exe
+C:\Users\Siddharth\documents\visual studio 2010\Projects\OS11\OS11\obj\x86\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\bin\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\bin\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\MainWindow.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\App.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11.g.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\OS11\OS11\obj\x86\Debug\OS11.pdb
+F:\5. opensoft\bitbucket\opensoft14\OS11\bin\Debug\OS11.exe
+F:\5. opensoft\bitbucket\opensoft14\OS11\bin\Debug\OS11.pdb
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\MainWindow.baml
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\MainWindow.g.cs
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\App.g.cs
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11.g.resources
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11.exe
+F:\5. opensoft\bitbucket\opensoft14\OS11\obj\x86\Debug\OS11.pdb
+F:\5. opensoft\OS11\OS11\bin\Debug\OS11.exe
+F:\5. opensoft\OS11\OS11\bin\Debug\OS11.pdb
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+F:\5. opensoft\OS11\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\5. opensoft\OS11\OS11\bin\Debug\System.Windows.Interactivity.dll
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+F:\5. opensoft\OS11\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+F:\5. opensoft\OS11\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\5. opensoft\OS11\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\5. opensoft\OS11\OS11\bin\Debug\System.Windows.Interactivity.xml
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\MainWindow.baml
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\Views\HomePageView.baml
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\Views\MosaicView.baml
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\MainWindow.g.cs
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\App.g.cs
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\App.baml
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.g.resources
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.exe
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\MainWindow.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\Views\HomePageView.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\Views\MosaicView.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\App.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\App.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.g.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.pdb
+F:\5. opensoft\OS11\OS11\obj\x86\Debug\OS11.csprojResolveAssemblyReference.cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\opensoft14\OS11\obj\x86\Debug\OS11.csprojResolveAssemblyReference.cache
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\MainWindow.baml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.baml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\MainWindow.g.cs
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\App.g.cs
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11.exe
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11.pdb
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\OS11.exe
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\OS11.pdb
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.baml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\App.baml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11.g.resources
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\pranjal\Documents\Expression\Blend 4\Projects\mosaiq\OS11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\OS11.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\OS11.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.csprojResolveAssemblyReference.cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\MainWindow.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\Views\HomePageView.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\Views\MosaicView.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\App.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11_MarkupCompile.lref
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\App.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.g.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.Properties.Resources.resources
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\OS11.csproj.GenerateResource.Cache
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\settingsWindow.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\settingsWindow.g.cs
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\bin\Debug\OS11.exe.config
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\statisticsWindow.baml
+C:\Users\Siddharth\Documents\Visual Studio 2013\Projects\mosaiq\OS11\obj\x86\Debug\statisticsWindow.g.cs

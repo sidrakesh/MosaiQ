@@ -1,0 +1,18 @@
+﻿<Window x:Class="OS11.statisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Statistics" Height="208.511" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="numRunsLabel" Content="Number of runs :" HorizontalAlignment="Left" Height="28" Margin="10,20,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label x:Name="totalRunLabel" Content="Total run time :" HorizontalAlignment="Left" Height="28" Margin="10,48,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.488,1.524"/>
+        <Label x:Name="avgRunLabel" Content="Average run time :" HorizontalAlignment="Left" Height="28" Margin="10,76,0,0" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="numRunsTextBox" HorizontalAlignment="Left" Height="28" Margin="148,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" BorderThickness="0"/>
+        <TextBox x:Name="totalRunTimeTextBox" HorizontalAlignment="Left" Height="28" Margin="148,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" BorderThickness="0"/>
+        <TextBox x:Name="avgRunTimeTextBox" HorizontalAlignment="Left" Height="28" Margin="148,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" BorderThickness="0"/>
+        <Label x:Name="lastRunLabel" Content="Last run time : " HorizontalAlignment="Left" Height="28" Margin="10,103,0,0" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="lastRunTimeTextBox" HorizontalAlignment="Left" Height="28" Margin="148,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" BorderThickness="0"/>
+        <Button x:Name="closeButton" Content="Close" HorizontalAlignment="Left" Height="32" Margin="10,136,0,0" VerticalAlignment="Top" Width="108" Click="closeButton_Click"/>
+        <Button x:Name="resetButton" Content="Reset" HorizontalAlignment="Left" Height="32" Margin="174,136,0,0" VerticalAlignment="Top" Width="108" Click="resetButton_Click"/>
+
+    </Grid>
+</Window>
